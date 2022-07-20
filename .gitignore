@@ -1,0 +1,4 @@
+*.jpg
+/images/*
+configure.txt
+.vs
